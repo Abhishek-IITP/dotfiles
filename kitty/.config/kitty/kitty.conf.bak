@@ -1,0 +1,19 @@
+# -------- BASIC, SAFE KITTY CONFIG --------
+
+font_family JetBrains Mono
+font_size 13
+
+background #1e1e1e
+foreground #dcdcdc
+
+cursor_shape beam
+cursor_beam_thickness 1.5
+
+enable_audio_bell no
+scrollback_lines 5000
+
+# Disable all dimming/transparency effects
+background_opacity 1.0
+inactive_text_alpha 1.0
+dim_opacity 0.0
+
